@@ -6,7 +6,7 @@
 
 ## About the Project
 This repository is a Proof of Concept (PoC) demonstrating a sovereign network architecture. It abstracts hardware dependencies to focus on two core cybersecurity paradigms:
-1. **Zero-Trust Network Access (ZTNA):** A default-deny rule engine simulating eBPF packet interception.
+1. **Zero-Trust Network Access :** A default-deny rule engine simulating packet interception.
 2. **Post-Quantum Cryptography (PQC):** A simulation of Key Encapsulation Mechanisms (KEM) to protect symmetric tunnel keys against "Harvest Now, Decrypt Later" quantum attacks.
 
 ## How to Run
