@@ -12,7 +12,7 @@ This repository is a Proof of Concept (PoC) demonstrating a sovereign network ar
 ## How to Run
 This PoC is built in pure Python and requires zero installation. 
 You can run it directly in your browser:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_DO_SEU_COLAB_AQUI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([LINK_DO_SEU_COLAB_AQUI](https://github.com/ROSILENE05/zero-trust-pqc-gateway/blob/main/Gateway_ZeroTrust_PQC_PoC.ipynb))
 
 ## Core Modules
 - **Rule Engine:** Prevents IP spoofing and unauthorized node attachment.
