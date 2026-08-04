@@ -1,5 +1,5 @@
 # Zero-Trust-PQC-Gateway
-# Software-Defined Zero-Trust Gateway with PQC (ML-KEM)
+# Software-Defined Zero-Trust Gateway with PQC 
 
 ## Architecture Overview
 <img width="1024" height="559" alt="Design_roteadorGateway" src="https://github.com/user-attachments/assets/66b3c842-deaf-45a0-a969-0268b9e7b605" />
